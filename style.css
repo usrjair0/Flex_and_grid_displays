@@ -118,7 +118,7 @@ img {
     }
 }
 
-/*Css Grid layout 3 Muito interessante de ser utilizado em outros porjetos*/ 
+/* Css Grid layout 3 Muito interessante de ser utilizado em outros porjetos */ 
 .grid3 {
     display: grid;
     grid-template-columns: 1fr 1fr;
